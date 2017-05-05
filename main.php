@@ -5,7 +5,7 @@
  * Description: A plugin that protectet your wordpress installation from spoofed HTTP requests .
  * Version: 1.0
  * Author: Mohammed Al Ashaal
- * Author URI: http://alash3al.xyz/
+ * Author URI: http://alash3al.xyz
  */
 if ( function_exists("get_home_url") ) {
 	if ( defined("WP_ALLOWED_HOSTS") && ! empty(WP_ALLOWED_HOSTS) ) {
