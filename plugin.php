@@ -1,8 +1,8 @@
-<?php
+<?php 
 /**
  * Plugin Name: Wordpress Allowed Hosts
  * Plugin URI: https://github.com/alash3al/wp-allowed-hosts
- * Description: A plugin that protectet your wordpress installation from spoofed HTTP requests .
+ * Description: A plugin that protects your wordpress installation from spoofed HTTP requests .
  * Version: 1.0
  * Author: Mohammed Al Ashaal
  * Author URI: http://alash3al.xyz
