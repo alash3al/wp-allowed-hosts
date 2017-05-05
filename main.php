@@ -22,4 +22,3 @@ if ( function_exists("get_home_url") ) {
 		}
 	}
 }
-
