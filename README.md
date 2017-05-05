@@ -2,6 +2,9 @@
 This plugin has been created after the vulnerability known as `CVE-2017-8295` has been disclosed, 
 this plugin will protect you from that attack with no hassle, just add simple line to your `wp-config.php` .
 
+# Installation
+Just download the plugin from [here](https://github.com/alash3al/wp-allowed-hosts/archive/master.zip) and upload it to your site .
+
 # Usage
 Just add the following line to your `wp-config.php`
 ```php
