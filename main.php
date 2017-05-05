@@ -25,3 +25,4 @@ if ( function_exists("add_action") ) {
 	}
 	add_action("init", "alash3al_allowed_hosts");
 }
+
