@@ -12,7 +12,7 @@ Just add the following line to your `wp-config.php`
 define( 'WP_ALLOWED_HOSTS', 'mysit.com' );
 ```
 
-You can also add multiple host names as following
+You can also add multiple domains .
 ```php
 // WP Allowed Hosts Plugin
 define( 'WP_ALLOWED_HOSTS', 'site1.com,site2.com' );
